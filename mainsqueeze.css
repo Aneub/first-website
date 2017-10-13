@@ -1,0 +1,316 @@
+header, main, nav, footer, figure, figcaption, aside, section, article {display: block}
+
+body {background-color: #402e34;
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+      
+}
+
+#container {background-color: #402e34;
+	    width: 90%;
+	    margin-left: auto;
+	    margin-right: auto;
+}
+
+wrapper {background-color: #402e34;
+	 
+}
+
+header {background-color: #9c7985;
+        border: 6px solid #000000;
+        margin-top: 50px;
+	margin-left: 0px
+}
+
+
+header img {padding-top: 30px;
+	    padding-bottom: 30px;
+	    padding-left: 15px;
+	    padding-right: 50px;	    
+}
+
+
+#tagline h1 {text-align: center;
+	     background-color: #9c7985;
+	     border: 6px solid #000000;
+	     margin-top: 10px;
+	     margin-bottom: 10px;
+	     
+}
+
+#tagline p {text-align: right;
+          font-size: 1.5em;
+          font-family: MV Boli, sans-serif, Times New Roman;
+          padding-right: 50px;
+          color: #B53C63;
+}
+
+
+nav {background-color: #9c7985;
+     float: left;
+     color: #B53C63;
+     font-family: MV Boli, sans-serif, Times New Roman;
+     font-size: 1.5em;
+     padding-right: 12px;
+     border: 6px solid #000000;
+     
+}
+
+nav ul {padding: 5px;
+	list-style-type: none;
+}
+
+
+h1 {text-align: center;
+    font-size: 2.5em;
+    font-family: Matura MT Script Capitals, sans-serif, Times New Roman;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#video {float: left;
+	position: absolute;
+	padding-top: 0px;
+	margin-top: 400px;
+	 
+}
+
+main {
+      font-family: MV Boli, sans-serif, Times New Roman;
+      color: #000000;
+      font-weight: bold;
+      padding-left: 320px;
+      padding-right: 0px;
+      text-align: center;
+      font-size: 1.5em;
+}
+
+#about {background-color: #9c7985;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        border: 6px solid #000000;
+        margin-bottom: 50px;
+	
+	
+}
+
+#orange {float: top;
+	 margin-top: 10px;
+	 position: absolute;
+         
+}
+
+#menu {background-color: #9c7985;
+       padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+        padding-top: 0px;
+        border: 6px solid #000000;
+        margin-bottom: 50px;
+	text-align: left;
+        
+}
+
+#nutrition {float: left;
+	position: absolute;
+	padding-top: 0px;
+	margin-top: 400px;
+	font-family: MV Boli, sans-serif, Times New Roman;
+	font-size: 2em;
+	color: lavenderblush;
+	
+}
+
+#nutrition a {color: aquamarine;
+
+}
+
+
+#tripdetail {text-align: center;
+             background-color: #9c7985;
+             border: 6px solid #000000;
+	     margin-right: 0px;
+             margin-bottom: 50px;
+             margin-left: 350px;
+             padding-left:10px;
+             padding-right: 10px;
+}
+
+#map {background-image: url(map.gif);
+      background-repeat: no-repeat;
+      background-position: center;
+      width: 1046px;
+      height: 710px;
+      
+}
+
+#marker1 {background-image: url(marker.png);
+	  background-repeat: no-repeat;
+	  height: 5px;
+          width: 5px;
+	  padding-right: 200px;
+	  padding-top: 400px;
+	  
+}
+
+table {background-color: #9c7985;
+       font-size: 1.5em;     
+}
+
+.altrow {background-color: #CCBFCF;
+}
+
+#suppliers {margin-right: 0px;
+            margin-bottom: 50px;
+            border: 6px solid #000000
+}
+
+#suppldetail {background-color: #9c7985;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        border: 6px solid #000000;
+        margin-bottom: 50px;
+}
+
+#farmpic {margin-bottom: 25px;
+		  border: 6px solid #000000;
+		  margin-top: 0px;
+		  background-size: cover;
+		  
+	
+}
+
+#contact {background-color: #9c7985;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        border: 6px solid #000000;
+        margin-bottom: 50px;
+}
+
+form {font-family: MV Boli, sans-serif, Times New Roman;
+      font-size: 1.5em;
+      display: inline-block;
+      text-align: left;
+     
+}
+
+#formstyle { text-align: center;
+	     display: block;
+	     background-color: #9c7985;
+             border: 6px solid #000000;
+	     margin-bottom: 50px;
+	     padding-bottom: 10px;
+	     
+	     
+}
+
+label {float: left;
+       clear: left;                  
+       font-size: 1.5em;
+       padding-right: 20px;
+}
+
+input {display: block;
+       margin-top: 30px;
+       
+}
+
+#mySatisfaction {width: 50px;
+}
+
+textarea {margin-top: 25px;
+	  width: 250px;
+}
+
+input[type="submit"] {margin-left: 315px;
+		      width: 75px;
+}
+
+#catering {background-color: #9c7985;
+           padding-left: 50px;
+           padding-right: 50px;
+           padding-bottom: 5px;
+           padding-top: 5px;
+           border: 6px solid #000000;
+           margin-bottom: 50px;
+		
+}
+#gallery {height: 500px;
+	  text-align: left;
+	  color: #000000;
+	  position: relative;
+	  margin-bottom: 10px;
+}
+
+figure {position: absolute;
+	left: 500px;
+	text-align: center;
+	opacity: .25;
+}
+
+#gallery ul { width: 500px;
+	      list-style-type: none;
+}
+
+#gallery li {display: inline;
+	     float: left;
+	     padding: 10px;
+}
+
+#gallery img { border-style: none;
+}
+
+#gallery a {text-decoration: none;
+	    color: #333;
+	    font-style: italic;
+}
+
+#gallery span {position: absolute;
+	       left: -1000px;
+	       opacity: 0;
+	       transition: opacity 3s ease-in-out;
+}
+
+#gallery a:hover span {position: absolute;
+		       top: 16px;
+		       left: 550px;
+		       text-align: center;
+		       opacity: 1;
+		       display: block;
+}
+
+.calendar {background-color: #9c7985;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        border: 6px solid #000000;
+        margin-bottom: 50px;
+}
+
+#cal {margin-bottom: 50px;
+}
+
+.coming { margin-bottom: 300px;
+}
+
+footer {background-color: #9c7985;
+        text-align: center;
+        border: 6px solid #000000;
+	
+}
+
+#links { text-align: left;
+		 position: absolute;
+		 margin-top: 5px;
+		 margin-left: 20px;
+		
+}
+

@@ -1,0 +1,82 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+html {background-image: url(snowflake2.jpg);
+		  background-repeat: no-repeat;
+		  background-size: cover;
+		  
+}
+
+#container {
+			background-color: lightsteelblue;
+			width: 70%;
+			margin-left: 35px;
+			margin-right: auto;
+}
+
+header {background-color: steelblue;
+		height: 126px;
+}
+
+h1 {position:absolute;
+	font-size: 6em;
+	margin-top: 0px;
+	color: midnightblue;
+}
+
+h3 {margin-right: 40px;
+	float: right;
+}
+
+form {float: right;
+	  margin-top: 50px;
+	  margin-left: 1050px;
+	  position: absolute;
+
+}
+
+nav li {display:inline;
+	    
+}
+
+nav { text-align: center;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+		font-size: 3em;
+		margin-left: 430px;
+	    margin-bottom: 60px;
+		position: absolute;
+}
+
+h2 {
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 2.5em;
+}
+
+p{font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+  font-size: 1.5em;
+}
+
+dt { font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+  font-size: 1.5em;	
+}
+
+dl { font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+     font-size: 1.5em;
+}
+
+#main { margin: 25px;
+}
+
+aside{
+	float: right;
+	margin-top: 37px;
+	padding-top: 10px;
+}
+	
+footer {
+	text-align: center;
+	font-family:Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-style: italic;
+	font-size: 1.2em;
+	
+}

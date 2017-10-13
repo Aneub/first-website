@@ -1,0 +1,32 @@
+http://screencast-o-matic.com/watch/cDXuqFQQrh
+
+Project/business name: Mainsqueeze
+
+Customer Profile: This product can appeal to a wide range of people and ages. Juice is fairly universal. But based on our marketing we are focusing on 19 to 35 year olds, both male and female (this product is not gender specific in any way), socio economic class would be middle to upper class because the product is not cheap and is sold at special events (not a standard commodity), customers hobbies/interests include, health, juice, breakfast, music, farmers markets, sustainable living, supporting small businesses.
+
+Purpose: The purpose of the project is to provide information about what we serve, information about our events, information about our farmers, and a way to contact us.
+
+Table
+title: Suppliers/Meet your neighbors
+url: http://mainsqueeze.altervista.org/publish/suppliers.html
+Requirement: Table-is right above the footer, below the picture in the middle of the page.
+
+Multimedia element
+title: Home Page
+url: http://mainsqueeze.altervista.org/publish/index.html
+Requirement: video-under the navigation on the left side
+
+E-mail link
+title: Book us/Catering
+url: http://mainsqueeze.altervista.org/publish/catering.html
+Requirement: email link is within the paragraph in the main section on the right.
+
+External Link
+title: Menu
+url: http://mainsqueeze.altervista.org/publish/menu.html
+Requirement: The external link is under the nav section on the left. its the underlined, all caps "here".
+
+Form
+title: Contact/Contact us
+url: http://mainsqueeze.altervista.org/publish/contact.html
+Requirement: the form is right above the footer and below the paragraph
